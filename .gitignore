@@ -130,29 +130,3 @@ storybook-static/
 .env
 .env.local
 .env.production
-.env.development
-
-# ========================================
-# Database
-# ========================================
-
-# SQLite
-*.db
-*.sqlite
-*.sqlite3
-
-# PostgreSQL
-*.sql.gz
-*.backup
-*.dump
-*.sql.bak
-
-# MySQL
-*.myi
-*.myd
-*.frm
-
-# Database backups
-backups/
-*.backup
-*.bak.sql
