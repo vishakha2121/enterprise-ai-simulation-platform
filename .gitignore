@@ -2,14 +2,7 @@
 # OS & IDE Specific
 # ========================================
 
-# macOS
-.DS_Stor
-*.msm
-*.msp
-
-# Linux
-*~
-.directory
+# 
 *.swp
 *.swo
 *.swn
