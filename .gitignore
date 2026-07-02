@@ -28282,25 +28282,4 @@ config
 # Netlify
 .netlify/
 
-# Vercel
-.vercel/
-
-# ========================================
-# Final Ignore Everything Else
-# ========================================
-
-# Ignore all backup files
-*~
-*.bak
-*.backup
-*.old
-
-# Ignore all temp files
-*.tmp
-*.temp
-
-# Ignore local configuration
-*.local
-*.development
-*.staging
-*.production
+# 
